@@ -1,3 +1,8 @@
+/*
+Copyright github.com/czminami. All Rights Reserved.
+SPDX-License-Identifier: Apache-2.0
+*/
+
 package conshing
 
 import (
